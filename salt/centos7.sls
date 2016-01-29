@@ -1,0 +1,24 @@
+include:
+  - packages.ftp
+  - packages.git
+  - packages.nfs-utils
+  - packages.httpd
+  - packages.lftp
+  - packages.x2goserver
+  - packages.whois
+  - packages.lsof
+  - packages.salt-minion
+  - packages.httpd
+  - packages.x2goclient
+  - packages.lsscsi
+  - packages.wget
+  - packages.curl
+  - packages.nfs4-acl-tools
+  - packages.screen
+  - packages.elinks
+  - packages.firefox
+  - packages.tree
+  - packages.geany
+  - packages.totem-mozplugin
+  - services.salt-minion
+  - config.epel
