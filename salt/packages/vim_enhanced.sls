@@ -1,2 +1,2 @@
-htop:
+vim-enhanced:
   pkg.installed
